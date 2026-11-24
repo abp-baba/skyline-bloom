@@ -1,12 +1,38 @@
 {
-  "v": 13,
+  "v": 15,
   "date": "24.11.2026",
   "tr": [
-    "🌐 Tarayıcının otomatik çevirisi artık oyunun yazılarını bozmuyor",
-    "👥 Ev panelindeki son çeviri eksiği düzeltildi"
+    "🏗️ İnşaat alanları: binalar vinç ve iskeleyle kat kat yükseliyor",
+    "🕌 Yeni binalar: cami, kilise, postane, benzinlik, otopark, düğün salonu, otel, AVM",
+    "🚗💥 Trafik kazaları: ambulans ve polis geliyor, yol birkaç gün kapanıyor",
+    "🚸 Kavşaklarda yaya geçitleri, sokaklarda park etmiş arabalar",
+    "💍 Düğünlerde havai fişek!"
   ],
   "en": [
-    "🌐 Browser auto-translate no longer garbles the game text",
-    "👥 Fixed the last untranslated label in the house panel"
+    "🏗️ Construction sites: buildings rise floor by floor with cranes and scaffolding",
+    "🕌 New buildings: mosque, church, post office, gas station, parking, wedding hall, hotel, mall",
+    "🚗💥 Traffic accidents: ambulances and police arrive, the road closes for a few days",
+    "🚸 Crosswalks at junctions, parked cars on the streets",
+    "💍 Fireworks at weddings!"
+  ],
+  "history": [
+    {
+      "v": 14,
+      "date": "24.11.2026",
+      "tr": [
+        "🗼 Elektrik hatları: santrali uzağa kur, direklerle şehre bağla",
+        "🚰 Su boruları ve yer altı görünümü",
+        "☀️🌬️🌊☢️ Yeni santraller: güneş, rüzgar, baraj, nükleer",
+        "🏭 Kömür santrali artık çevresini kirletiyor",
+        "🔧 Arızalar: patlayan borular, fırtınada devrilen direkler"
+      ],
+      "en": [
+        "🗼 Power lines: build plants far away and connect them with pylons",
+        "🚰 Water pipes and an underground view",
+        "☀️🌬️🌊☢️ New plants: solar, wind, dam, nuclear",
+        "🏭 Coal plants now pollute their surroundings",
+        "🔧 Breakdowns: burst pipes and pylons toppled by storms"
+      ]
+    }
   ]
 }
