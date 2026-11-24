@@ -1,26 +1,12 @@
 {
- "v": 12,
- "date": "24.11.2026",
- "tr": [
-  "🗺️ Harita 4 kat büyüdü, daha çok göl, nehir ve dağ var",
-  "⛰️ Arazi düzenleme: dağ yükselt/alçalt, gölet kaz, toprak doldur, ağaç dik",
-  "🚇 Dağların içinden tünel açabilirsin",
-  "🌅 Sabah ve akşam yoğun saat trafiği, gece sakin sokaklar",
-  "🚨 Suç ve güvenlik: polis olay yerine gidiyor",
-  "👶 Doğum, yaşlanma, hastalık; sağlık ocağı ve mezarlık",
-  "📊 Harita katmanları ve şehir istatistikleri",
-  "✨ Yeni, daha şık alt menü",
-  "🔔 Güncelleme bildirimleri"
- ],
- "en": [
-  "🗺️ The map is 4× bigger with more lakes, rivers and mountains",
-  "⛰️ Terraforming: raise/lower mountains, dig ponds, fill land, plant trees",
-  "🚇 Dig tunnels through mountains",
-  "🌅 Morning and evening rush hours, quiet streets at night",
-  "🚨 Crime and safety: police respond to incidents",
-  "👶 Births, aging and illness; clinics and cemeteries",
-  "📊 Map layers and city statistics",
-  "✨ A new, cleaner bottom toolbar",
-  "🔔 Update notifications"
- ]
+  "v": 13,
+  "date": "24.11.2026",
+  "tr": [
+    "🌐 Tarayıcının otomatik çevirisi artık oyunun yazılarını bozmuyor",
+    "👥 Ev panelindeki son çeviri eksiği düzeltildi"
+  ],
+  "en": [
+    "🌐 Browser auto-translate no longer garbles the game text",
+    "👥 Fixed the last untranslated label in the house panel"
+  ]
 }
