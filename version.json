@@ -1,37 +1,39 @@
 {
-  "v": 15,
+  "v": 16,
   "date": "24.11.2026",
   "tr": [
-    "🏗️ İnşaat alanları: binalar vinç ve iskeleyle kat kat yükseliyor",
-    "🕌 Yeni binalar: cami, kilise, postane, benzinlik, otopark, düğün salonu, otel, AVM",
-    "🚗💥 Trafik kazaları: ambulans ve polis geliyor, yol birkaç gün kapanıyor",
-    "🚸 Kavşaklarda yaya geçitleri, sokaklarda park etmiş arabalar",
-    "💍 Düğünlerde havai fişek!"
+    "🏷️ Kiralar ve ev fiyatları (yeni Kira haritası)",
+    "💦 Kanalizasyon: arıtılmayan su nehirleri kirletir, balıklar ölür",
+    "🔥 Kışın doğalgaz: doğalgazı olmayan evler üşür",
+    "🎆 Yılbaşı, bayramlar, 23 Nisan, 29 Ekim, yaz festivali ve maç günleri",
+    "🗳️ 4 yılda bir belediye seçimi",
+    "📈 Enflasyon: fiyatlar ve maaşlar her yıl artar"
   ],
   "en": [
-    "🏗️ Construction sites: buildings rise floor by floor with cranes and scaffolding",
-    "🕌 New buildings: mosque, church, post office, gas station, parking, wedding hall, hotel, mall",
-    "🚗💥 Traffic accidents: ambulances and police arrive, the road closes for a few days",
-    "🚸 Crosswalks at junctions, parked cars on the streets",
-    "💍 Fireworks at weddings!"
+    "🏷️ Rents and house prices (new Rent map layer)",
+    "💦 Sewage: untreated water pollutes rivers and kills fish",
+    "🔥 Winter gas heating: homes without gas get cold",
+    "🎆 New Year, holidays, festivals and match days",
+    "🗳️ Mayoral elections every 4 years",
+    "📈 Inflation: prices and wages rise every year"
   ],
   "history": [
     {
-      "v": 14,
+      "v": 15,
       "date": "24.11.2026",
       "tr": [
-        "🗼 Elektrik hatları: santrali uzağa kur, direklerle şehre bağla",
-        "🚰 Su boruları ve yer altı görünümü",
-        "☀️🌬️🌊☢️ Yeni santraller: güneş, rüzgar, baraj, nükleer",
-        "🏭 Kömür santrali artık çevresini kirletiyor",
-        "🔧 Arızalar: patlayan borular, fırtınada devrilen direkler"
+        "🏗️ İnşaat alanları: binalar vinç ve iskeleyle kat kat yükseliyor",
+        "🕌 Yeni binalar: cami, kilise, postane, benzinlik, otopark, düğün salonu, otel, AVM",
+        "🚗💥 Trafik kazaları: ambulans ve polis geliyor, yol birkaç gün kapanıyor",
+        "🚸 Kavşaklarda yaya geçitleri, sokaklarda park etmiş arabalar",
+        "💍 Düğünlerde havai fişek!"
       ],
       "en": [
-        "🗼 Power lines: build plants far away and connect them with pylons",
-        "🚰 Water pipes and an underground view",
-        "☀️🌬️🌊☢️ New plants: solar, wind, dam, nuclear",
-        "🏭 Coal plants now pollute their surroundings",
-        "🔧 Breakdowns: burst pipes and pylons toppled by storms"
+        "🏗️ Construction sites: buildings rise floor by floor with cranes and scaffolding",
+        "🕌 New buildings: mosque, church, post office, gas station, parking, wedding hall, hotel, mall",
+        "🚗💥 Traffic accidents: ambulances and police arrive, the road closes for a few days",
+        "🚸 Crosswalks at junctions, parked cars on the streets",
+        "💍 Fireworks at weddings!"
       ]
     }
   ]
