@@ -1,40 +1,16 @@
 {
-  "v": 16,
-  "date": "24.11.2026",
+  "v": 17,
+  "date": "25.11.2026",
   "tr": [
-    "🏷️ Kiralar ve ev fiyatları (yeni Kira haritası)",
-    "💦 Kanalizasyon: arıtılmayan su nehirleri kirletir, balıklar ölür",
-    "🔥 Kışın doğalgaz: doğalgazı olmayan evler üşür",
-    "🎆 Yılbaşı, bayramlar, 23 Nisan, 29 Ekim, yaz festivali ve maç günleri",
-    "🗳️ 4 yılda bir belediye seçimi",
-    "📈 Enflasyon: fiyatlar ve maaşlar her yıl artar"
+    "🎯 6 senaryo: hedefli, süreli görevler ve ⭐ yıldızlar (giriş ekranı → Senaryolar)",
+    "📸 Fotoğraf modu (O tuşu): filtreler, gün batımı ve gece, dönen kamera, PNG kaydet",
+    "🏆 6 yeni başarım",
+    "💳 Krediler artık erken kapatılabilir"
   ],
   "en": [
-    "🏷️ Rents and house prices (new Rent map layer)",
-    "💦 Sewage: untreated water pollutes rivers and kills fish",
-    "🔥 Winter gas heating: homes without gas get cold",
-    "🎆 New Year, holidays, festivals and match days",
-    "🗳️ Mayoral elections every 4 years",
-    "📈 Inflation: prices and wages rise every year"
-  ],
-  "history": [
-    {
-      "v": 15,
-      "date": "24.11.2026",
-      "tr": [
-        "🏗️ İnşaat alanları: binalar vinç ve iskeleyle kat kat yükseliyor",
-        "🕌 Yeni binalar: cami, kilise, postane, benzinlik, otopark, düğün salonu, otel, AVM",
-        "🚗💥 Trafik kazaları: ambulans ve polis geliyor, yol birkaç gün kapanıyor",
-        "🚸 Kavşaklarda yaya geçitleri, sokaklarda park etmiş arabalar",
-        "💍 Düğünlerde havai fişek!"
-      ],
-      "en": [
-        "🏗️ Construction sites: buildings rise floor by floor with cranes and scaffolding",
-        "🕌 New buildings: mosque, church, post office, gas station, parking, wedding hall, hotel, mall",
-        "🚗💥 Traffic accidents: ambulances and police arrive, the road closes for a few days",
-        "🚸 Crosswalks at junctions, parked cars on the streets",
-        "💍 Fireworks at weddings!"
-      ]
-    }
+    "🎯 6 scenarios: timed missions with ⭐ stars (intro screen → Scenarios)",
+    "📸 Photo mode (O key): filters, sunset and night, orbit camera, save PNG",
+    "🏆 6 new achievements",
+    "💳 Loans can now be paid off early"
   ]
 }
