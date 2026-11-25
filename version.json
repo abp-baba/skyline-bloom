@@ -1,16 +1,16 @@
 {
-  "v": 17,
+  "v": 18,
   "date": "25.11.2026",
   "tr": [
-    "🎯 6 senaryo: hedefli, süreli görevler ve ⭐ yıldızlar (giriş ekranı → Senaryolar)",
-    "📸 Fotoğraf modu (O tuşu): filtreler, gün batımı ve gece, dönen kamera, PNG kaydet",
-    "🏆 6 yeni başarım",
-    "💳 Krediler artık erken kapatılabilir"
+    "🚗 Yeni araba modelleri: sedan, hatchback, SUV, pikap, minibüs, taksi, kamyon (gerçekçi renkler, gece stop lambaları)",
+    "🏡 4 farklı müstakil ev: beşik çatılı, iki katlı, garajlı, modern havuzlu",
+    "🏢 Gerçekçi cepheler: apartman, ofis ve gökdelenlerde tek tek pencereler, gece rastgele yanan ışıklar",
+    "🏙️ Yeni gökdelen tipleri: cam kule, kademeli kule, klasik kule; sıra evler ve L planlı apartmanlar"
   ],
   "en": [
-    "🎯 6 scenarios: timed missions with ⭐ stars (intro screen → Scenarios)",
-    "📸 Photo mode (O key): filters, sunset and night, orbit camera, save PNG",
-    "🏆 6 new achievements",
-    "💳 Loans can now be paid off early"
+    "🚗 New car models: sedan, hatchback, SUV, pickup, van, taxi, truck (realistic colors, brake lights at night)",
+    "🏡 4 kinds of houses: gabled, two-storey, with garage, modern with pool",
+    "🏢 Realistic facades: individual windows on apartments, offices and towers, randomly lit at night",
+    "🏙️ New tower types: glass, stepped and classic towers; row houses and L-shaped apartment blocks"
   ]
 }
